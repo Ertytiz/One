@@ -1,6 +1,6 @@
 ﻿namespace Gittest
 {
-    partial class BOLT
+    partial class SAMOREZ
     {
         /// <summary>
         /// Required designer variable.
@@ -34,23 +34,22 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources._612_original;
-            pictureBox1.Location = new Point(-4, 0);
+            pictureBox1.Image = Properties.Resources._1;
+            pictureBox1.Location = new Point(-2, -2);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(417, 470);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 2;
+            pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
             // 
-            // BOLT
+            // SAMOREZ
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(413, 466);
             Controls.Add(pictureBox1);
-            Name = "BOLT";
-            StartPosition = FormStartPosition.CenterParent;
-            Text = "BOLT";
+            Name = "SAMOREZ";
+            Text = "SAMOREZ";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }

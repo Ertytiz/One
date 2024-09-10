@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             photo1 = new Button();
+            photo2 = new Button();
             SuspendLayout();
             // 
             // photo1
@@ -41,11 +42,22 @@
             photo1.UseVisualStyleBackColor = true;
             photo1.Click += photo1_Click;
             // 
+            // photo2
+            // 
+            photo2.Location = new Point(474, 363);
+            photo2.Name = "photo2";
+            photo2.Size = new Size(98, 48);
+            photo2.TabIndex = 1;
+            photo2.Text = "саморез";
+            photo2.UseVisualStyleBackColor = true;
+            photo2.Click += photo2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 561);
+            Controls.Add(photo2);
             Controls.Add(photo1);
             Name = "Form1";
             Text = "Form1";
@@ -55,5 +67,6 @@
         #endregion
 
         private Button photo1;
+        private Button photo2;
     }
 }

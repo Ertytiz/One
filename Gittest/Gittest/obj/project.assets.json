@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student2\\source\\repos\\Gittest\\Gittest\\Gittest.csproj",
+      "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Артем Брагин и Кондратьев\\One-Ones-Branch\\Gittest\\Gittest\\Gittest.csproj",
       "projectName": "Gittest",
-      "projectPath": "C:\\Users\\student2\\source\\repos\\Gittest\\Gittest\\Gittest.csproj",
+      "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Артем Брагин и Кондратьев\\One-Ones-Branch\\Gittest\\Gittest\\Gittest.csproj",
       "packagesPath": "C:\\Users\\student2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student2\\source\\repos\\Gittest\\Gittest\\obj\\",
+      "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Артем Брагин и Кондратьев\\One-Ones-Branch\\Gittest\\Gittest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student2\\AppData\\Roaming\\NuGet\\NuGet.Config",
