@@ -1,0 +1,22 @@
+* {
+padding: 0px;
+margin: 0px;
+border: border-box;
+}
+.Шапка {
+	text-align: center;
+	background-color: orange;
+	height:100px;
+}
+.Низ {
+	text-align:center;
+	margin-top: 700px;
+}
+.Part1 {
+	text-align: center;
+	margin-top: 30px;
+}
+.Part2 {
+	text-align: center;
+	margin-top: 30px;
+}
