@@ -1,0 +1,37 @@
+C:\Users\student2\source\repos\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.exe
+C:\Users\student2\source\repos\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.deps.json
+C:\Users\student2\source\repos\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.runtimeconfig.json
+C:\Users\student2\source\repos\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.dll
+C:\Users\student2\source\repos\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.pdb
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.BOLT.resources
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.Form1.resources
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.Properties.Resources.resources
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.csproj.GenerateResource.cache
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.AssemblyInfoInputs.cache
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.AssemblyInfo.cs
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.csproj.CoreCompileInputs.cache
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.dll
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\refint\Gittest.dll
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.pdb
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.genruntimeconfig.cache
+C:\Users\student2\source\repos\Gittest\Gittest\obj\Debug\net7.0-windows\ref\Gittest.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\bin\Debug\net7.0-windows\Gittest.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.BOLT.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.SAMOREZ.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\refint\Gittest.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\Gittest.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Артем Брагин и Кондратьев\One-Ones-Branch\Gittest\Gittest\obj\Debug\net7.0-windows\ref\Gittest.dll
